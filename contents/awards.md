@@ -1,13 +1,19 @@
-- National Scholarship of Graduate Student, 2024.
+- 清华大学“第三届碳中和博士生论坛”-口头汇报(共同一作), 2024.11.
 
-- First-prize Scholarship of CUMT, 2024.
+- 全国大学生统计建模大赛全国三等奖, 2024.08
 
-- First-prize Scholarship of CUMT, 2023.
+- 安徽省大学生统计建模大赛省一等奖, 2024.07
 
-- Freshman Scholarship of CUMT, 2022.
+- 安徽省市场调查与分析大赛省二等奖, 2024.07
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- 大学生能源经济学术创意大赛三等奖, 2024.05
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+- 全国财经院校第三届“财经中国”学术峰会青年论坛-口头汇报(第一作者), 2024.05
 
-- First-prize Scholarship of CUMT, 2019.
+- 清华大学“今经乐道”经济热点分析大赛优秀报告, 2023.12
+
+- 共青团中央青年发展部优秀调研报告, 2023.12
+
+- 第十八届“挑战杯”课外学术科技作品竞赛全国三等奖, 2023.12
+
+- 安徽省第十届“挑战杯”课外学术科技作品竞赛省一等奖, 2023.05
