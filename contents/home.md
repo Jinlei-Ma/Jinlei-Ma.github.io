@@ -8,7 +8,7 @@ He is currently pursuing a Master's Degree in Computer Science, at School of Com
 mjl2004@ahut.edu.cn
 
 #### Education
-B.E., School of Business for AnHui University of Technology, 2022—2026 (expected).\
+Undergraduate at School of Business for AnHui University of Technology, 2022-2026.
 
 #### Research Interests
 Earth System Science, AI for Social Science, Prospective Science.
