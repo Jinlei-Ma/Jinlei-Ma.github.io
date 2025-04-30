@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/Jinlei-Ma-github-blue?logo=github)](https://github.com/Jinlei-Ma)
+[![Jinlei-Ma](https://jinlei-ma.github.io)](https://github.com/Jinlei-Ma)
 
 He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
