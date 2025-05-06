@@ -11,4 +11,4 @@ My research lies at the intersection of urban carbon emissions, machine learning
 - Understanding policy and technology interaction in emission pathways
 - Building equitable, efficient carbon reduction mechanisms
 
-You can [download my full Research Statement](static/files/research_statement.pdf).
+You can [download my full Research Statement](static/files/research statement.pdf).
