@@ -1,6 +1,6 @@
 - **Jinlei Ma**, He Huang*, Jingke Hong✉. *Unequal Burdens Collective Climate Target in Fragmented City Landscape*. **(*Working Paper*)**.
 
-- He Huang, **Jinlei Ma***, Hongyu Liu, Jingke Hong✉. *Real Estate Market Downturn and Its Implications for Carbon Decarbonization in the Construction Sector*. **In Revision(*Working Paper*)**
+- He Huang, **Jinlei Ma***, Hongyu Liu, Jingke Hong✉. *Real Estate Market Downturn and Its Implications for Carbon Decarbonization in the Construction Sector*. **(*Working Paper*)**
 
 - He Huang, **Jinlei Ma***, Hongyu Liu, Jingke Hong✉. *Peaking in Pieces? Decoding the Carbon Peak Dynamics of Chinese Cities*. **In Revision(*Sustainable Production and Consumption*)**.
 
