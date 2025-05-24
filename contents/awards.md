@@ -8,7 +8,7 @@
 
 - 安徽省大学生统计建模大赛省一等奖, 2024.07 🏆[Certification](https://github.com/Jinlei-Ma/Award-Certificates/blob/main/第十届统计建模大赛省赛一等奖.png)
 
-- 安徽省市场调查与分析大赛省二等奖, 2024.07 🏆[Certification](https://github.com/Jinlei-Ma/Award-Certificates/blob/main/2024年安徽省大学生市场调查与分析大赛省二等奖.jpg)
+- 安徽省市场调查与分析大赛省二等奖, 2024.07 🏆[Certification](https://github.com/Jinlei-Ma/Award-Certificates/blob/main/2024 年安徽省大学生市场调查与分析大赛省二等奖.jpg)
 
 - 大学生能源经济学术创意大赛三等奖, 2024.05 🏆[Certification](https://github.com/Jinlei-Ma/Award-Certificates/blob/main/能源经济学术创意大赛.jpg)
 
@@ -28,6 +28,6 @@
 
 - 实用新型专利"一种专用于润滑剂制备过程的研磨机"(KS007432), 2023.10 🏆[Certification](https://github.com/Jinlei-Ma/Award-Certificates/blob/main/实用新型专利KS007432.png)
 
-- “财经报国青年力行”2023年全国大学生暑期“三下乡社会实践专项活动优秀结项, 2023.10 🏆[Certification](https://github.com/Jinlei-Ma/Award-Certificates/blob/main/央财2023结项证明.png)
+- “财经报国青年力行”2023年全国大学生暑期“三下乡社会实践专项活动优秀结项, 2023.10 🏆[Certification](https://github.com/Jinlei-Ma/Award-Certificates/blob/main/央财结项证明.png)
 
 - 安徽省第十届“挑战杯”课外学术科技作品竞赛省一等奖, 2023.05 🏆[Certification](https://github.com/Jinlei-Ma/Award-Certificates/blob/main/2023年第十届“挑战杯“安徽省大学生课外学术科技作品竞赛一等奖.jpg)
